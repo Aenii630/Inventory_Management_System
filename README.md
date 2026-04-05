@@ -150,7 +150,7 @@ http://localhost:8000/items
 ## 👩‍💻 Developer
 
 **[Aena Gul]**
-BS Information Technology
+BS Computer Science 
 Inventory Management System — Laravel 12 — 2026
 
 ---
