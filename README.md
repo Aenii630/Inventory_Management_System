@@ -6,8 +6,7 @@
 
 ## 🎬 Demo Video
 
-▶️ **[https://drive.google.com/file/d/1v5EtZ_a_K38RpyoMy8uoKEIJ-VramjuH/view?usp=drivesdk](#)** ←
----
+▶️ https://drive.google.com/file/d/1v5EtZ_a_K38RpyoMy8uoKEIJ-VramjuH/view?usp=drivesdk
 
 ## 🚀 About Laravel
 
